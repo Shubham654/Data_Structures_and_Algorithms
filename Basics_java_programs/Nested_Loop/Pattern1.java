@@ -8,7 +8,7 @@ public class Pattern1 {
         
         Scanner sc = new Scanner(System.in);
 
-        System.out.println("Enter anu number");
+        System.out.println("Enter any number");
         int n = sc.nextInt();
         sc.close();
 
