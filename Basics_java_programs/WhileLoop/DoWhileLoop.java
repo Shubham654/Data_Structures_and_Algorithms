@@ -1,4 +1,4 @@
-package WhileLoop;
+package Basics_java_programs.WhileLoop;
 
 public class DoWhileLoop {
     public static void main(String[] args) {

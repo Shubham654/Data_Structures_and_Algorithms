@@ -1,4 +1,4 @@
-package For_Loop;
+package Basics_java_programs.For_Loop;
 
 import java.util.Scanner;
 

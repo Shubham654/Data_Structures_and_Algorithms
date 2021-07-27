@@ -1,4 +1,4 @@
-package Nested_Loop;
+package Basics_java_programs.Nested_Loop;
 
 public class Tables1to20 {
     
