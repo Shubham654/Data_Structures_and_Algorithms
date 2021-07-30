@@ -20,7 +20,7 @@ public class AverageMarksOfStudents {
             marks[i] = sc.nextInt();
             total += marks[i];
         }
-        
+        sc.close();
         average = total/n ;
 
         System.out.println("Total of all " + n + " marks are: " + total);
